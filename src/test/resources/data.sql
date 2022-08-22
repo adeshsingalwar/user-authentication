@@ -1,0 +1,1 @@
+insert into users(id,user_Id, email,username,encrypted_Password) values(1,'abc123','lily@gmail.com', 'lily','$2a$04$/mbJxIn56HYdNoVC/25lfeKPDmIrTGMP0d72InKMmWig8zLBhl/gG')
